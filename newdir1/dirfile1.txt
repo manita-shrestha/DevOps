@@ -1,1 +1,2 @@
 New dir file1
+new line in file
